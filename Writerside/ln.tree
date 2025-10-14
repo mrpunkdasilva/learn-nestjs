@@ -9,4 +9,5 @@
     <toc-element topic="starter-topic.md"/>
     <toc-element topic="Philosofy.md"/>
     <toc-element topic="why-ts.md"/>
+    <toc-element topic="key-features-of-nestjs.md"/>
 </instance-profile>

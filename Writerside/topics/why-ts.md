@@ -1,4 +1,4 @@
-# Why TypeScript?
+# Porque TypeScript?
 
 Essa é uma boa pergunta, talvez feita por quem ainda não usou TS (famosa sigla para TypeScript) ou quem ainda não passou de uma linguagem como Java em que você tem que levar muito a serio o type safety em que precisamos pensar em não ser **ambiquo** que é algo que o JavaScript possui, além outras coisas como ele não se autodocumenta já que não precisamos definir tipos por exemplo
 
