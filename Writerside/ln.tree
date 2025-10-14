@@ -7,4 +7,6 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Philosofy.md"/>
+    <toc-element topic="why-ts.md"/>
 </instance-profile>
