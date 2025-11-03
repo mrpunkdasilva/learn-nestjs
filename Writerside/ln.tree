@@ -15,4 +15,5 @@
     <toc-element topic="Guards.md"/>
     <toc-element topic="Exception-Filters.md"/>
     <toc-element topic="Pipes.md"/>
+    <toc-element topic="Interceptors.md"/>
 </instance-profile>
