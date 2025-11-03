@@ -17,4 +17,5 @@
         <toc-element topic="Exception-Filters.md"/>
         <toc-element topic="Interceptors.md"/>
     </toc-element>
+    <toc-element topic="Ecosystem.md"/>
 </instance-profile>
