@@ -10,4 +10,8 @@
     <toc-element topic="Philosofy.md"/>
     <toc-element topic="why-ts.md"/>
     <toc-element topic="key-features-of-nestjs.md"/>
+    <toc-element topic="Dependency-Injection.md"/>
+    <toc-element topic="Decorators.md"/>
+    <toc-element topic="Guards.md"/>
+    <toc-element topic="Exception-Filters.md"/>
 </instance-profile>
